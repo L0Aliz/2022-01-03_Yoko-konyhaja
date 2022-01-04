@@ -34,10 +34,12 @@ nav ul {
 
 nav li {
 	margin-right: 40px;
+	float: left;
 }
 
 nav li a {
 	color: #ffffff;
+
 }
 
 nav li a:hover, nav li a.current {
